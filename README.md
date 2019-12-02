@@ -1,2 +1,2 @@
 # Interpreter
-An interpreter for matlang languaga
+An interpreter for matlang language
